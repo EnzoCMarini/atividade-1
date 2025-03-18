@@ -5,7 +5,7 @@ let nome: string = `Enzo`;
 let idade: number = 15;
 let tempolivre1: string = `jogar`;
 let tempolivre2: string = `assistir videos`;
-let tempolivre3: string = `fazer churrasco`;
+let tempolivre3: string = `dormir`;
 let saudacao: string = `Boa Tarde`;
 let graduacao: string = `TI`;
 

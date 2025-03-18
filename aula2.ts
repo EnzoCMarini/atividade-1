@@ -11,4 +11,4 @@ let n2: number = parseInt(teclado(`Digite a nota N2: `));
 
 let media: number = (n1 + n2) /2;
 
-console.log(`O nome do aluno é ${nome} e a media é ${media}`);
+console.log(`O nome do aluno é ${nome} e a média é ${media}`);
