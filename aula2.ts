@@ -1,6 +1,7 @@
 console.clear ()
 let teclado = require(`prompt-sync`)();
 
+
 console.log(`-----------------`);
 console.log(`- Calculo media -`);
 console.log(`-----------------`);

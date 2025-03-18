@@ -1,5 +1,4 @@
 console.clear();
-//console.log(`Enzo Cassão Marini`);
 var nome = "Enzo";
 var idade = 15;
 var tempolivre1 = "jogar";

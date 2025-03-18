@@ -1,5 +1,4 @@
 console.clear ()
-//console.log(`Enzo Cassão Marini`);
 
 let nome: string = `Enzo`;
 let idade: number = 15;

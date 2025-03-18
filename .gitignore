@@ -1,5 +1,5 @@
 node_modules
-gitignore
+.gitignore
 aula.js
 aula2.js
 aula3.js
